@@ -1,0 +1,30 @@
+body {
+  /* background-color: #ff5a5a;
+  height: 100%; */
+  font-family: "tradegothiclt-bold", sans-serif;
+}
+
+.text {
+  /* font-size: 5em; */
+  /* color: white; */
+  text-transform: uppercase;
+  position: absolute;
+  left: 90px;
+  top: 100px;
+}
+
+span {
+  border-right: 0.55em solid;
+  /* width: 20px; */
+  animation: caret 1s steps(1) infinite;
+}
+
+@keyframes caret {
+  50% {
+    border-color: transparent;
+  }
+}
+
+.animation svg #screen {
+  fill: #c5dec1;
+}
