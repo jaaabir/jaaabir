@@ -15,4 +15,24 @@
       />
     </g>
   </g>
+
+  <defs>
+    <style>
+      #screen {
+        animation: color 2s linear infinite;
+      }
+
+      @keyframes color {
+        0% {
+          fill: #cf9393;
+        }
+        50% {
+          fill: #93b9cf;
+        }
+        100% {
+          fill: #93cf95;
+        }
+      }
+    </style>
+  </defs>
 </svg>
