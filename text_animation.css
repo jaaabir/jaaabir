@@ -2,15 +2,18 @@ body {
   /* background-color: #ff5a5a;
   height: 100%; */
   font-family: "tradegothiclt-bold", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .text {
   /* font-size: 5em; */
   /* color: white; */
   text-transform: uppercase;
-  position: absolute;
-  left: 90px;
-  top: 100px;
+  position: relative;
+  left: 88px;
+  top: 150px;
 }
 
 span {
@@ -23,8 +26,4 @@ span {
   50% {
     border-color: transparent;
   }
-}
-
-.animation svg #screen {
-  fill: #c5dec1;
 }

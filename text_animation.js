@@ -1,9 +1,10 @@
 document.addEventListener("DOMContentLoaded", function (event) {
   var dataText = [
     "Name : jaabir ",
-    "What i am good at ? ",
-    "Python | React js | Django",
-    "HTML | CSS | js ",
+    // "What i am good at ? ",
+    // "Python | React js | Django",
+    // "HTML | CSS | js ",
+    "Welcome to my repo ",
   ];
   function typeWriter(text, i, fnCallback) {
     if (i < text.length) {
