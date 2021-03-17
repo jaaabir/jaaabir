@@ -27,3 +27,31 @@ span {
     border-color: transparent;
   }
 }
+
+#tomei {
+  animation: spin 3.5s ease-out 1;
+  transform-origin: center;
+}
+
+#eye {
+  animation: light 2.9s ease-out 1;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(360);
+  }
+  50%,
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes light {
+  90% {
+    fill: #ff0000;
+  }
+  100% {
+    fill: #a50000;
+  }
+}
