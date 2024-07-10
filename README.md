@@ -1,8 +1,6 @@
-I'm a self-taught programmer passionate in AI and Data Science  
-
 **About me**
 
-- 💼 Data Science Intern at [Object Automation Software Solution Pvt Ltd](http://razorpay.com/)
+- I'm a self-taught programmer passionate in AI and Data Science
 
 - 📈 Built a whole chatbot application related to health
 
@@ -22,13 +20,4 @@ I'm a self-taught programmer passionate in AI and Data Science
 #### Top Repositories
 
 
-<a href="https://github.com/jaaabir/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaaabir&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/jaaabir/jaaabir.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaabir&repo=jaaabir.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
 
