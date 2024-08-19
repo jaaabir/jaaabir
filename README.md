@@ -1,6 +1,6 @@
 **About me**
 
-- I'm a self-taught programmer passionate in AI and Data Science
+- I'm a self-taught programmer and a CS graduate, passionate in AI and Data Science
 
 - 📈 Built a whole chatbot application related to health
 
