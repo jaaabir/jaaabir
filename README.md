@@ -1,23 +1,101 @@
-**About me**
+<h1 align="center">Hi 👋, I'm Muhammed Jaabir</h1>
+<h3 align="center">Data Scientist | AI Engineer | Builder of Intelligent Systems</h3>
 
-- I'm a self-taught programmer and a CS graduate, passionate in AI and Data Science
+---
 
-- 📈 Built a whole chatbot application related to health
+## 👨‍💻 About Me
+- 🎓 Master's student in Data Science at Universidade de Lisboa  
+- 🧠 Passionate about Machine Learning, Deep Learning, and AI systems  
+- 🔬 Research Assistant building ML models for signal data analysis  
+- 💡 Love solving real-world problems using data + intelligent algorithms  
+- 🧪 Enjoy experimenting with AI models, CV systems, and LLM applications  
+- ⚡ Fun fact: I learn best by building
 
-- ❤️ I love writing Python, and building fun experiments related to deep learning and AI
+---
 
-- 💬 Ask me about anything [here](https://github.com/jaaabir/jaaabir/issues)
+## 🧠 What I Do
+- Build end-to-end AI systems
+- Train ML/DL models
+- Design scalable full-stack AI apps
+- Deploy production-ready models
+- Work with vector DB + RAG pipelines
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-  
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,r,mysql" />
+</p>
+
+### 🧠 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48"/>
+</p>
+
+### ⚙️ Backend / Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,firebase,docker,redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="48"/>
+  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" height="48" alt="Pinecone"/>
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,graphql" />
+</p>
+
+### 📊 Data
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,mongodb" />
+</p>
 
 
-| <a href="https://github.com/jaaabir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaaabir&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jaaabir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaaabir&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+---
 
-#### Top Repositories
+## 🔥 Featured Projects
 
+### 🏥 Fine-tuning an End-to-End VLM for structured ocr output
+Researching SOTA models and fine-tuning them on in-house dataset ( invoices/receipts ) to get structured output
 
+### 🤖 AI Customer Support Generator
+Fine-tuned T5 model to automatically generate responses to support queries.
 
+### 🧠 Dementia Detection System
+Machine learning model for cognitive condition prediction. ( Bachelor's degree final year project ) 
+
+### ✋ Hand Tracker
+Computer vision system for real-time hand detection.
+
+### 🏥 Healthcare Knowledge-Graph Chatbot
+AI chatbot using Neo4j knowledge graph + NLP.
+
+### 📊 U-Rankly
+AI web app with custom RAG pipeline for university insights.
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaaabir&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaaabir&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+- 💼 LinkedIn: https://linkedin.com/in/muhammed-jaabir-94022019b
+- 📬 Reach me for collaboration, research, or AI projects
+
+---
+
+## 📌 Current Focus
+→ Applied AI Systems
+→ Research-level ML
+→ Production ML Deployment
+→ Computer Vision + LLM Hybrid Systems
+
+---
