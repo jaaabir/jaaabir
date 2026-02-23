@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammed Jaabir</h1>
-<h3 align="center">Data Scientist | AI Engineer | Builder of Intelligent Systems</h3>
+<h3 align="center">ML Engineer | Builder of Intelligent Systems</h3>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Master's student in Data Science at Universidade de Lisboa  
 - 🧠 Passionate about Machine Learning, Deep Learning, and AI systems  
-- 🔬 Research Assistant building ML models for signal data analysis  
 - 💡 Love solving real-world problems using data + intelligent algorithms  
 - 🧪 Enjoy experimenting with AI models, CV systems, and LLM applications  
 - ⚡ Fun fact: I learn best by building
@@ -15,8 +14,8 @@
 
 ## 🧠 What I Do
 - Build end-to-end AI systems
-- Train ML/DL models
-- Design scalable full-stack AI apps
+- Train & Fine-tune ML/DL models
+- Design scalable full-stack AI apps (learning)
 - Deploy production-ready models
 - Work with vector DB + RAG pipelines
 
@@ -87,15 +86,16 @@ AI web app with custom RAG pipeline for university insights.
 ---
 
 ## 🤝 Let's Connect
-- 💼 LinkedIn: https://linkedin.com/in/muhammed-jaabir-94022019b
+- 💼 LinkedIn: [Md. Jaabir](https://www.linkedin.com/in/jaabir-zifri-94022019b/)
 - 📬 Reach me for collaboration, research, or AI projects
 
 ---
 
 ## 📌 Current Focus
-→ Applied AI Systems
-→ Research-level ML
-→ Production ML Deployment
+→ Applied AI Systems <br>
+→ Research-level ML <br>
+→ Production ML Deployment <br>
 → Computer Vision + LLM Hybrid Systems
 
 ---
+
