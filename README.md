@@ -78,10 +78,9 @@ AI web app with custom RAG pipeline for university insights.
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaaabir&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaaabir&layout=compact&theme=tokyonight"/>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaaabir&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaaabir&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaaabir&theme=nord_bright&utcOffset=8)
 
 ---
 
@@ -98,4 +97,5 @@ AI web app with custom RAG pipeline for university insights.
 → Computer Vision + LLM Hybrid Systems
 
 ---
+
 
