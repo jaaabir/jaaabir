@@ -38,31 +38,6 @@ I take models from research into production. Right now that means **vision-langu
 
 <br/>
 
-## Projects
-
-<div align="center">
-
-<a href="https://github.com/jaaabir/ASL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jaaabir&repo=ASL&theme=tokyonight&hide_border=true&description_lines_count=2" alt="ASL" width="49%" /></a>
-<a href="https://github.com/jaaabir/dementia-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jaaabir&repo=dementia-detection&theme=tokyonight&hide_border=true&description_lines_count=2" alt="dementia-detection" width="49%" /></a>
-
-<a href="https://github.com/jaaabir/customer-support-responses-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jaaabir&repo=customer-support-responses-generator&theme=tokyonight&hide_border=true&description_lines_count=2" alt="customer-support-responses-generator" width="49%" /></a>
-<a href="https://github.com/jaaabir/hand_tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jaaabir&repo=hand_tracker&theme=tokyonight&hide_border=true&description_lines_count=2" alt="hand_tracker" width="49%" /></a>
-
-</div>
-
-<details>
-<summary><b>More</b></summary>
-<br/>
-
-- **U-Rankly** — university-consultation chatbot on a RAG pipeline (Next.js, Pinecone, OpenAI/Gemini); 100+ sign-ups in its first three days
-- **Medical-assistance chatbot** — symptom-to-diagnosis over a Neo4j knowledge graph, presented at IIT
-- **Face-mask detection** — Faster R-CNN with ResNet-50 FPN in PyTorch · [repo](https://github.com/jaaabir/mask_no_mask_detection)
-- **Phishing URL detection** — Random Forest classifier, ~97% test accuracy · [repo](https://github.com/jaaabir/phishing_detection)
-
-</details>
-
-<br/>
-
 ## Stats
 
 <div align="center">
