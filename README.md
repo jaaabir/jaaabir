@@ -1,101 +1,24 @@
-<h1 align="center">Hi 👋, I'm Muhammed Jaabir</h1>
-<h3 align="center">ML Engineer | Builder of Intelligent Systems</h3>
+# Jaabir Zifri
 
----
+Machine learning engineer in Lisbon. I take models from research into production.
 
-## 👨‍💻 About Me
-- 🎓 Master's student in Data Science at Universidade de Lisboa  
-- 🧠 Passionate about Machine Learning, Deep Learning, and AI systems  
-- 💡 Love solving real-world problems using data + intelligent algorithms  
-- 🧪 Enjoy experimenting with AI models, CV systems, and LLM applications  
-- ⚡ Fun fact: I learn best by building
+Right now I work at [Comudel](https://comudel.com) on vision-language models for reading invoices: fine-tuning Qwen VLMs with LoRA and GRPO, serving them over vLLM behind FastAPI, and building the synthetic data that trains them. My M.Sc. thesis at Universidade de Lisboa is on the same problem: turning pixels into schema-valid structured output.
 
----
+Before that: gait recognition from accelerometer signals at LASIGE, a Neo4j healthcare chatbot at Object Automation, and sign-language detection at Tact Labs.
 
-## 🧠 What I Do
-- Build end-to-end AI systems
-- Train & Fine-tune ML/DL models
-- Design scalable full-stack AI apps (learning)
-- Deploy production-ready models
-- Work with vector DB + RAG pipelines
+## Projects
 
----
+- [Sign-language detection](https://github.com/jaaabir/ASL) — TimeSformer on keypoint sequences, 73% word-level accuracy, 23 points over a GRU baseline
+- [Dementia detection from speech](https://github.com/jaaabir/dementia-detection) — LSTM classifier, 75%+ accuracy
+- [Support response generator](https://github.com/jaaabir/customer-support-responses-generator) — T5 fine-tuned to draft replies from ticket context
+- [Hand tracker](https://github.com/jaaabir/hand_tracker) — real-time hand landmarks from webcam with OpenCV and MediaPipe
+- U-Rankly — university-consultation chatbot on a RAG pipeline (Next.js, Pinecone); 100+ sign-ups in its first three days
+- Medical-assistance chatbot — symptom-to-diagnosis over a Neo4j knowledge graph, presented at IIT
 
-## 🛠️ Tech Stack
+## Stack
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,r,mysql" />
-</p>
+Python · PyTorch · Transformers · vLLM · FastAPI · Docker · Neo4j · Pinecone · Next.js
 
-### 🧠 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48"/>
-</p>
+## Elsewhere
 
-### ⚙️ Backend / Infra
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,firebase,docker,redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="48"/>
-  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" height="48" alt="Pinecone"/>
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,graphql" />
-</p>
-
-### 📊 Data
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,mongodb" />
-</p>
-
-
----
-
-## 🔥 Featured Projects
-
-### 🏥 Fine-tuning an End-to-End VLM for structured ocr output
-Researching SOTA models and fine-tuning them on in-house dataset ( invoices/receipts ) to get structured output
-
-### 🤖 AI Customer Support Generator
-Fine-tuned T5 model to automatically generate responses to support queries.
-
-### 🧠 Dementia Detection System
-Machine learning model for cognitive condition prediction. ( Bachelor's degree final year project ) 
-
-### ✋ Hand Tracker
-Computer vision system for real-time hand detection.
-
-### 🏥 Healthcare Knowledge-Graph Chatbot
-AI chatbot using Neo4j knowledge graph + NLP.
-
-### 📊 U-Rankly
-AI web app with custom RAG pipeline for university insights.
-
----
-
-## 📈 GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaaabir&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaaabir&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaaabir&theme=nord_bright&utcOffset=8)
-
----
-
-## 🤝 Let's Connect
-- 💼 LinkedIn: [Md. Jaabir](https://www.linkedin.com/in/jaabir-zifri-94022019b/)
-- 📬 Reach me for collaboration, research, or AI projects
-
----
-
-## 📌 Current Focus
-→ Applied AI Systems <br>
-→ Research-level ML <br>
-→ Production ML Deployment <br>
-→ Computer Vision + LLM Hybrid Systems
-
----
-
-
+[mojaabir.vercel.app](https://mojaabir.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jaabir-zifri-94022019b/) · [Kaggle](https://www.kaggle.com/muhammedjaabir) · jaabir.zaid@gmail.com
