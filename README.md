@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Jaabir%20Zifri&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%C2%B7%20Lisbon&descSize=22&descAlignY=58&descColor=c0caf5" width="100%" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=50&lines=Vision-language+models+for+document+understanding;Fine-tuning+Qwen+VLMs+with+LoRA+%2B+GRPO;Serving+models+on+vLLM+%2B+FastAPI;Taking+research+into+production)](https://mojaabir.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=760&height=50&lines=Vision-language+models+for+document+understanding;Fine-tuning+Qwen+VLMs+with+LoRA+%2B+GRPO;Serving+models+on+vLLM+%2B+FastAPI;Taking+research+into+production)](https://mojaabir.vercel.app)
 
 <a href="https://mojaabir.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mojaabir.vercel.app-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/jaabir-zifri-94022019b/"><img src="https://img.shields.io/badge/LinkedIn-Jaabir%20Zifri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -28,11 +28,11 @@ I take models from research into production. Right now that means **vision-langu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,huggingface,fastapi,docker,aws,git,githubactions&perline=8" alt="ML & infra" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,docker,aws&perline=8" alt="ML & infra" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,mongodb,mysql,neo4j,redis,vercel&perline=8" alt="Web & data" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,mongodb,mysql,redis,git,githubactions&perline=8" alt="Web & data" />
 
-<sub>plus Transformers · vLLM · LoRA / GRPO · RAG · Pinecone · OpenTelemetry</sub>
+<sub>plus Hugging Face · Transformers · vLLM · LoRA / GRPO · RAG · Neo4j · Pinecone · OpenTelemetry</sub>
 
 </div>
 
@@ -68,7 +68,7 @@ I take models from research into production. Right now that means **vision-langu
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaaabir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaaabir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaaabir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" alt="Top languages" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=jaaabir&theme=tokyonight&hide_border=true" alt="Streak" />
 
